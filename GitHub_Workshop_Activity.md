@@ -31,7 +31,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 *Answer:*
 
 **Question 5.** What is your favorite place in Michigan?
-
+Leland
 **Other resources**
 
 -   [Happy git with R](https://happygitwithr.com/)
