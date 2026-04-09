@@ -16,11 +16,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 1.** Would you rather be able to fly or breathe underwater?
 
-<<<<<<< HEAD
 *Answer:* fly :)
-=======
-*Answer:* Fly 
->>>>>>> e2fc04141303f1d331aa1d699457bc2869cb84cd
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
