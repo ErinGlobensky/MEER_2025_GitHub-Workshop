@@ -16,15 +16,19 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 1.** Would you rather be able to fly or breathe underwater?
 
+<<<<<<< HEAD
 *Answer:* fly :)
+=======
+*Answer:* Fly 
+>>>>>>> e2fc04141303f1d331aa1d699457bc2869cb84cd
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
-*Answer:* 
+*Answer:* No. It is not layered
 
 **Question 3.** What is your go-to karaoke anthem?
 
-*Answer:*
+*Answer:* I would never do that to anyone tbh
 
 **Question 4.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains of Middle Earth.
 
