@@ -28,9 +28,10 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 4.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains of Middle Earth.
 
-*Answer:*
+*Answer:* Forest on Endor
 
 **Question 5.** What is your favorite place in Michigan?
+
 
 **Other resources**
 
