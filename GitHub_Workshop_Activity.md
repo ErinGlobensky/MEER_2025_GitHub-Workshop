@@ -14,13 +14,13 @@
 
 To start, be careful not to make changes on the same line -- this can introduce merge conflicts! But if you are feeling comfortable with the basics above, feel free to play around and see if you can identify and resolve conflicts.
 
-**Question 1.** If you could be an animal for a day, which would you choose and why?
+**Question 1.** Would you rather be able to fly or breathe underwater?
 
 *Answer:*
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
-*Answer:* emphatically, yes.
+*Answer:* 
 
 **Question 3.** What is your go-to karaoke anthem?
 
@@ -29,6 +29,8 @@ To start, be careful not to make changes on the same line -- this can introduce 
 **Question 4.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains of Middle Earth.
 
 *Answer:*
+
+**Question 5.** What is your favorite place in Michigan?
 
 **Other resources**
 
